@@ -1,6 +1,6 @@
 package com.kanishk.prometheusDemo.model;
 
-public class Employee {
+public class Employee extends BaseEntity {
 
     String firstName;
     String lastName;
